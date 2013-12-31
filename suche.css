@@ -1,0 +1,20 @@
+@CHARSET "UTF-8";
+#wrap {
+	width: 30%;
+   	margin: 0 auto;
+   	height: 300px;
+}
+#pic {
+	float:left;
+	display: inline-block;
+}
+
+#tab {
+	float: left;
+	display: inline-block;
+}
+
+#val {
+	clear: both;
+	float: right;
+}
