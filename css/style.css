@@ -1,3 +1,14 @@
+
+body {
+      background:
+        radial-gradient(circle at 10px 10px, transparent 7px, #F6F6F6 7px, #F6F6F6 13px, transparent 13px) 0 0,
+        radial-gradient(circle at 9px 9px, transparent 8px, #ECECEC 8px, #ECECEC 12px, transparent 12px) 0 0;
+      background-color: white;
+      background-size: 20px 20px, 19px 19px;
+     }
+.row {background-color: #ffffff;}
+ 
+
 #footer {
 	color: #CCCCCC;
 	background-color: #333333;
